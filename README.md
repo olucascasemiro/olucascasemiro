@@ -89,7 +89,3 @@ Busco oportunidades para evoluir como desenvolvedor backend e contribuir com pro
 - APIs REST com Spring Boot  
 - Testes automatizados  
 - Arquitetura de Software  
-
----
-
-⭐️ Sempre aberto a colaborar em projetos e aprender com desafios reais.
