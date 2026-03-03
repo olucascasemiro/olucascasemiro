@@ -60,16 +60,14 @@ Busco oportunidades para evoluir como desenvolvedor backend e contribuir com pro
 
 ## 📊 GitHub Analytics
 
-<p align="left">
+<p align="center">
   <img 
-    alt="GitHub Stats" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=olucascasemiro&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=olucascasemiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
   />
   <img 
-    alt="Top Langs" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=olucascasemiro&theme=tokyonight&layout=compact&langs_count=6" 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=olucascasemiro&layout=compact&theme=tokyonight&count_private=true" 
   />
 </p>
 
