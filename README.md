@@ -78,8 +78,8 @@ Busco oportunidades para evoluir como desenvolvedor backend e contribuir com pro
 ## 🐍 Contribuições
 
 <p align="center">
-  <img src="https://github.com/olucascasemiro/olucascasemiro/blob/output/github-contribution-grid-snake.svg" />
-</p>
+  <img src="https://raw.githubusercontent.com/olucascasemiro/olucascasemiro/output/github-contribution-grid-snake-dark.svg" />
+</p>>
 
 ---
 
